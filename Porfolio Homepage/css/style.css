@@ -1,0 +1,50 @@
+
+header {
+    background-color: #313131;
+    display: flex;
+}
+.navitems {
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    width: 23%; 
+    padding: 1%; 
+    text-align: left;
+}
+.navitems li, .footeritems li, .personalitems li {
+    list-style-type: none;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+    text-align: right;
+    color: #FAFBEE;
+}
+button {
+    background-color: #a70909;
+}
+.heroimg {
+    height: 600px; 
+    padding: 25px;
+}
+.content {
+    height: 500px; 
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.casestudy1 {
+    height: 400px;
+    
+}
+footer {
+    background-color: #313131;
+    height: 100px;
+}
+.footeritems {
+    display: flex;
+    justify-content: space-around;
+    color: #FAFBEE;
+}
